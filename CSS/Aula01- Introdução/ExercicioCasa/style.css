@@ -1,0 +1,18 @@
+body {
+
+background-color: rgb(90, 22, 22);
+ font-family: 'EB Garamond', serif;
+}
+
+h2 { 
+    color: bisque;
+}
+
+footer {
+ background-color: darkslategrey;
+
+}
+
+p {
+    color: dimgrey;
+}
